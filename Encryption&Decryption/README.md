@@ -1,5 +1,5 @@
 # Encryption&Decryption
-## a client send a text for the server, the server do encryption or decryption and return the result to the client.
+## a client sends a text for the server, the server does encryption or decryption and returns the result to the client.
 
 The user enters a text on the client side and chooses the encryption/decryption operation.
 The clients send the text to the server.
