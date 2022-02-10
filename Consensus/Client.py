@@ -2,11 +2,7 @@ import socket
 import time
 import random
 
-
-
-
 def main():
-
     rand = random.randrange(0, 3)
     data = random.randrange(1, 5)
     destination = list(nodes.values())[rand]
@@ -21,14 +17,9 @@ def main():
         print("the leader handle my request")
     else:
         print("a client handle my request")    
-
-    
-
-
-
     s.close()
 
-
+    
 nodes = {
   "2": "192.168.10.2",
   "11": "192.168.10.11",
