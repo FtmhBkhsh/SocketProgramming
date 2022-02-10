@@ -1,6 +1,6 @@
 # SocketProgramming
 ## Distributed System Course's Socket Programming Assignments:
-<<<<<<< HEAD
+
 #### Download: a client download a file from the server.
 #### Encryption&Decryption: a client send a text for the server, the server do encryption or decryption and return the result to the client.
 #### Consensus: three nodes reach a conensus about the leader and the data.  
@@ -11,5 +11,4 @@
  
 #### `Download`: a client downloads a file from the server.
 #### `Encryption&Decryption`: a client sends a text for the server, the server does encryption or decryption and returns the result to the client.
-
->>>>>>> 42c0f0dd2f8850ce48ba315d66b6bfa3d197513c
+#### `Consensus`:three nodes reach a conensus about the leader and the data.
